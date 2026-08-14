@@ -61,7 +61,7 @@ button, input, select, textarea { font: inherit; }
 .hero { min-height: calc(100vh - 78px); position: relative; overflow:hidden; color:#fff; display:flex; align-items:flex-end; }
 .hero-image {
   position:absolute; inset:0;
-  background-image: url('golf-course.jpg');
+  background-image: url('Golf course.jpg');
   background-size:cover; background-position:center 45%;
   transform:scale(1.02);
 }
